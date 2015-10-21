@@ -1,7 +1,7 @@
 # TorMap
 
 
-> TorMap is a project that will map the geographic locations of Tor relays. 
+TorMap is a project that will map the geographic locations of Tor relays. 
 ----
 
 ## Required Data
