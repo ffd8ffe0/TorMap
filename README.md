@@ -1,8 +1,7 @@
 # TorMap
 
 
-> TorMap is a project that will map the geographic locations of 
-Tor relays. This project will utalize STEM and Google Maps as well as Python, and MySQL.
+> TorMap is a project that will map the geographic locations of Tor relays. This project will utalize STEM and Google Maps as well as Python, and MySQL.
 ----
 
 ## Required Data
